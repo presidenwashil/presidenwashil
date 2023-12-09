@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **raihanpresiden2003@gmail.com**
 
-- 📄 Know about my experiences [https:/www.linkedin.com/in/raihan-presiden-washil-278762209](https:/www.linkedin.com/in/raihan-presiden-washil-278762209)
+- 📄 Know about my experiences [www.linkedin.com/in/raihan-presiden-washil-278762209](www.linkedin.com/in/raihan-presiden-washil-278762209)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
