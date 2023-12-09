@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raihan Presiden Washil</h1>
 <h3 align="center">A passionate full stack web developer from Indonesia</h3>
 
-<img align="right alt="coding" width="400" src="https://github.com/presidenwashil/presidenwashil/assets/108395093/911e0ddb-14a6-429e-b973-09a3fca085de
-">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=presidenwashil&label=Profile%20views&color=0e75b6&style=flat" alt="presidenwashil" /> </p>
 
 - 📝 I regularly write articles on [http://presidenwashil.github.io/](http://presidenwashil.github.io/)
