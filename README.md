@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Raihan Presiden Washil</h1>
 <h3 align="center">A passionate full stack web developer from Indonesia</h3>
 
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=presidenwashil&label=Profile%20views&color=0e75b6&style=flat" alt="presidenwashil" /> </p>
 
 - 📝 I regularly write articles on [http://presidenwashil.github.io/](http://presidenwashil.github.io/)
@@ -38,6 +46,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=presidenwashil&show_icons=true&locale=en&layout=compact" alt="presidenwashil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=presidenwashil&show_icons=true&locale=en" alt="presidenwashil" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=presidenwashil&show_icons=true&locale=en" alt="presidenwashil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=presidenwashil&" alt="presidenwashil" /></p>
