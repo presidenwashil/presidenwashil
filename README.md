@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [http://presidenwashil.github.io/](http://presidenwashil.github.io/)
 
-- 💬 Ask me about **php, laravel, hapi.js, react.js**
-
 - 📫 How to reach me **raihanpresiden2003@gmail.com**
 
 - 📄 Know about my experiences www.linkedin.com/in/raihan-presiden-washil-278762209
@@ -20,15 +18,10 @@
 
 <h3 align="left">Code With:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" alt="alpinejs" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" alt="livewire" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" alt="alpinejs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=presidenwashil&show_icons=true&locale=en&layout=compact" alt="presidenwashil" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=presidenwashil&show_icons=true&locale=en" alt="presidenwashil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=presidenwashil&" alt="presidenwashil" /></p>
