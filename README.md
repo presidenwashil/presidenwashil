@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=presidenwashil&label=Profile%20views&color=0e75b6&style=flat" alt="presidenwashil" />
 </p>
 
-- 📝 I regularly write articles on [http://presidenwashil.github.io/](http://presidenwashil.github.io/)
+- 📝 My Web Profile [http://presidenwashil.github.io/](http://presidenwashil.github.io/react-web-profile)
 
 - 📫 How to reach me **raihanpresiden2003@gmail.com**
 
