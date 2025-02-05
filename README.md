@@ -1,37 +1,25 @@
-<h1 align="center">Hi 👋, I'm Raihan Presiden Washil</h1>
-<h3 align="center">A passionate full stack web developer from Indonesia</h3>
+# Hi there, I'm presidenwashil! 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=presidenwashil&label=Profile%20views&color=0e75b6&style=flat" alt="presidenwashil" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=presidenwashil&color=blue)
 
-- 📝 My Web Profile [http://presidenwashil.github.io/react-web-profile/](http://presidenwashil.github.io/react-web-profile/)
+## About Me
 
-- 📫 How to reach me **raihanpresiden2003@gmail.com**
+I'm a passionate developer with a keen interest in web development and artificial intelligence. I enjoy building innovative projects and continuously learning new technologies.
 
-- 📄 Know about my experiences www.linkedin.com/in/raihan-presiden-washil-278762209
+- 🔭 I’m currently working on [smc-internal-app](https://github.com/Rizky92/smc-internal-app)
+- 🌱 I’m currently learning artificial intelligence
+- 📫 How to reach me: raihanpresiden2003@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raihan-presiden-washil-278762209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raihan presiden washil" height="30" width="40" /></a>
-</p>
+## GitHub Stats
 
-<h3 align="left">Code With:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" alt="alpinejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" alt="livewire" width="40" height="40"/>
-</p>
+![presidenwashil's GitHub stats](https://github-readme-stats.vercel.app/api?username=presidenwashil&show_icons=true&theme=radical)
 
+## Top Languages
 
-###
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=presidenwashil&layout=compact&theme=radical)
 
-<div>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=presidenwashil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  
-</div>
+## Connect with Me
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/raihan-presiden-washil-278762209)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/PresidenWashil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=google-chrome&logoColor=white)](http://presidenwashil.github.io/react-web-profile/)
